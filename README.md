@@ -129,9 +129,11 @@ server.close()
 
 ## OUTPUT:
 ##client.py:
-<img width="1092" height="435" alt="image" src="https://github.com/user-attachments/assets/b76e5a02-f448-426f-ab75-da7a3e9a6024" />
+<img width="1107" height="423" alt="image" src="https://github.com/user-attachments/assets/4301c866-ba1c-4d49-8a78-353dbdebc3ca" />
+
 ##sever.py
-<img width="1092" height="435" alt="image" src="https://github.com/user-attachments/assets/e0aa4055-b23e-4bdf-bc5e-128310f591a2" />
+
+<img width="1106" height="443" alt="image" src="https://github.com/user-attachments/assets/b22e55b4-91a5-4eb7-ba9c-690aa3de5b6c" />
 
 
 
