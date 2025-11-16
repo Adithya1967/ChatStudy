@@ -131,7 +131,8 @@ server.close()
 ##client.py:
 <img width="1092" height="435" alt="image" src="https://github.com/user-attachments/assets/b76e5a02-f448-426f-ab75-da7a3e9a6024" />
 ##sever.py
-<img width="1092" height="435" alt="image" src="https://github.com/user-attachments/assets/524776a8-67dd-4698-895b-cf34bc703d14" />
+<img width="1092" height="435" alt="image" src="https://github.com/user-attachments/assets/e0aa4055-b23e-4bdf-bc5e-128310f591a2" />
+
 
 
 
